@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1> Hello there! I'm Alusine JAlloh </h1>
  
-<a href="https://github.com/Alusp">
+<!-- <a href="https://github.com/Alusp">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Alusp&theme=buefy&show_icons=true" />
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alusp&theme=buefy&layout=compact" />
-</a>
+</a> --->
  
