@@ -2,7 +2,7 @@
 Alusp/Alusp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1> Hello there! I'm  <img alt="Alusine Jalloh (Alusp)" src="https://ihttps://img.shields.io/badge/Alusine-Jalloh-brightgreen?style=for-the-badge&logoColor=white"> </h1>
+<h1> Hello there! I'm  <img alt="Alusine Jalloh (Alusp)" src="https://ihttps://img.shields.io/badge/Alusine-Jalloh-brightgreen"> </h1>
 <h3 style="font-size:22px;color:red"> :male-technologist::skin-tone-2: &nbsp;About Me </h3>
 - :thinking_face: &nbsp; I'm a developer with a passion for learning and facing challenges.
 - :mortar_board: &nbsp; with a BSc Honors in Information Technology from Limkokwing University.
