@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-ide&logoColor=2C2255)\
 ![Netbeans](https://img.shields.io/badge/-Netbeans-05122A?style=flat&logo=netbeans-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=1572B6)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
