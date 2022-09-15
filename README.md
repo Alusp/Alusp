@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 🎷 &nbsp;In my free time, I love to watch dramatic movies or listen to soul music.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at alujallo@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email [here](alujallo@gmail.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
