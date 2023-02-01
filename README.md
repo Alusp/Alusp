@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ![Dart (Statistics)](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
-![Ruby On Rails](https://img.shields.io/badge/-Ruby-On-Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp;
+![Ruby-On-Rails](https://img.shields.io/badge/-Ruby-On-Rails-05122A?style=flat&logo=ruby-on-rails)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=092E20)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
